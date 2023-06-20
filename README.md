@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Allan Gabriel</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **Go**
 
-- 💬 Ask me about **C and Python**
+- 💬 Ask me about **Laravel**
 
 - 📫 How to reach me **allan.g531@hotmail.com**
 
