@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Drink Delivery System](https://github.com/agp531/drinks-delivery-system)
 
-- 🌱 I’m currently learning **Go and JS**
+- 🌱 I’m currently learning **Go and Angular**
 
 - 💬 Ask me about **PHP**
 
